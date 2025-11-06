@@ -11,15 +11,12 @@ class CelulaPilha {
     public char getDado() {
         return this.dado;
     }
-
     public void setDado(char dado) {
         this.dado = dado;
     }
-
     public CelulaPilha getAnterior() {
         return this.anterior;
     }
-
     public void setAnterior(CelulaPilha anterior) {
         this.anterior = anterior;
     }
